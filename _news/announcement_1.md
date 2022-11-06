@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Feb. 2020
 inline: true
 ---
 
-A simple inline announcement.
+Cristóvão Iglesias joined CARG as a research associate.
