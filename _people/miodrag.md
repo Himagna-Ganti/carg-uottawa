@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Aviv Bick
-description: PhD Student
+title: Miodrag Bolic
+description: Professor
 img: assets/img/fardad.jpeg
 importance: 1
 category: current
-redirect: https://github.com/avivbick
+redirect: https://engineering.uottawa.ca/people/bolic-miodrag
 ---
