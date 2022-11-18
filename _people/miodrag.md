@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miodrag Bolic
-description: "Professor/: Machine Learning, Uncertainty Evaluation, UAVs, Biomedical Signal Image Processing"
+description: Professor
 img: assets/img/miodrag-bolic.jpg
 importance: 1
 category: current
