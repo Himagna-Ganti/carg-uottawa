@@ -2,7 +2,6 @@
 layout: page
 title: people
 permalink: /people/
-description:
 nav: true
 nav_order: 1
 display_categories: [current, alumni]
@@ -10,7 +9,7 @@ horizontal: false
 ---
 
 <!-- pages/people.md -->
-<div class="people">
+<div class="projects">
 {%- if site.enable_people_categories and page.display_categories %}
   <!-- Display categorized people -->
   {%- for category in page.display_categories %}
