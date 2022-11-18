@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vaibhav Patel
-description: Research Associate
+description: Research Assistant
 img: 
 importance: 5
 category: current
