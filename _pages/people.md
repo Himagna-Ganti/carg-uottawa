@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /people/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 1
 display_categories: [current, alumni]
@@ -21,14 +21,14 @@ horizontal: false
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_people -%}
+    {%- for people in sorted_people -%}
       {% include people_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_people -%}
+    {%- for people in sorted_people -%}
       {% include people.html %}
     {%- endfor %}
   </div>
@@ -42,14 +42,14 @@ horizontal: false
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_people -%}
+    {%- for people in sorted_people -%}
       {% include people_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_people -%}
+    {%- for people in sorted_people -%}
       {% include people.html %}
     {%- endfor %}
   </div>
