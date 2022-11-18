@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Fardad Dadboud
-description: Ph.D. Student
-img: assets/img/12.jpg
-importance: 2
+title: Vaibhav Patel
+description: Research Associate
+img: 
+importance: 5
 category: current
-redirect: https://fardaddadboud.github.io/
+redirect: 
 ---
 
