@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fardad Dadboud
+title: Hamid Azad
 description: M.Sc. Student
 img:
 importance: 2
