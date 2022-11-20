@@ -1,7 +1,7 @@
 ---
 layout: about
 title: CARG
-permalink: /CARG/
+permalink: /carg/
 nav: true
 nav_order: 1
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
