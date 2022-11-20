@@ -8,10 +8,7 @@ profile:
   align: right
   image: LOGO.png
   image_circular: True # crops the image to make it circular
-  address: >
-    <p>5130, SITE Building</p>
-    <p>800 King Edward</p>
-    <p>Ottawa, Canada</p>
+  address:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-Welcom to professor Miodrag Bolic's Labs and groups webpage. All these Labs and groups are headed by professor Bolic at the University of Ottawa. We have lots of cool projects in dealt with Unmanned Aerial Vehicles (UAV)s, Biomedical systems, and Biological organs.  In these group, we will also closely collaborate with our external collaborator National Research Council (NRC) and other Canadian universities.
+Welcome to professor Miodrag Bolic's Labs and groups webpage. All these Labs and groups are headed by professor Bolic at the University of Ottawa. We have lots of cool projects in dealt with Unmanned Aerial Vehicles (UAV)s, Biomedical systems, and Biological organs.  In these group, we will also closely collaborate with our external collaborator National Research Council (NRC) and other Canadian universities.
 
 Current Research Direction: Machine Learning (ML), Deep Learning (DL), Computer Vision (CV), Signal Processing, Uncertainty Evaluation, Sensor Fusion, Merging Physical and ML Models, the Models Efficient Implementation
 
