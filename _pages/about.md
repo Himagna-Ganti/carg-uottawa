@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: logo.png
+  image: LOGO.png
   image_circular: True # crops the image to make it circular
   address: >
     <p>5130, SITE Building</p>
