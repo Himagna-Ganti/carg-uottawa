@@ -1,6 +1,7 @@
 github_users:
-  - CARG-uOttawa
   - Health-Devices
-  - FardadDadboud
+  
 
 github_repos:
+  - CARG-uOttawa/UAVS
+  - FardadDadboud/Drone_YOLOv5_Detector
