@@ -8,7 +8,7 @@ nav_order: 2
 
 profile:
   align: right
-  image: logo.png
+  image: logo_2.png
   image_circular: True # crops the image to make it circular
   address: >
     <p>5130, SITE Building</p>
