@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: about
 title: CARG
-permalink: /
+permalink: /CARG/
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
