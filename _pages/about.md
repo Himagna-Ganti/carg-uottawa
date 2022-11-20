@@ -19,12 +19,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+Welcom to professor Miodrag Bolic's Labs and groups webpage. All these Labs and groups are headed by professor Bolic at the University of Ottawa. We have lots of cool projects in dealt with Unmanned Aerial Vehicles (UAV)s, Biomedical systems, and Biological organs.  In these group, we will also closely collaborate with our external collaborator National Research Council (NRC) and other Canadian universities.
 
-The University of Ottawa’s Computational Analysis and Acceleration Research Group (CARG) specialises in the developing of computational models and algorithms for image/signal processing and machine learning as well as their efficient implementation, with an emphasis on biomedical and autonomous vehicle applications. In this group, we will closely collaborate with our external collaborator National Research Council (NRC), on Unmanned Aerial Vehicle (UAV)-related applications.
-
-This research group evolved from Computer Architecture research group (original CARG). Computer architecture research group was formed in 2008 and focused on the following topics: computer architectures, signal processing architectures, hardware and software accelerators, GPU architectures and programming and algorithmic modifications for more efficient implementation in hardware. In recent years our research has gone in several different directions and therefore we decided to change the name of our group to Computational Analysis and Acceleration Research Group (new CARG).
-
-Current Research Direction: Computer Vision, Signal Processing, Machine Learning, Deep Learning, Uncertainty Evaluation, Sensor Fusion, Merging physical and machine learning models, efficient implementation of the models
+Current Research Direction: Machine Learning (ML), Deep Learning (DL), Computer Vision (CV), Signal Processing, Uncertainty Evaluation, Sensor Fusion, Merging Physical and ML Models, the Models Efficient Implementation
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
