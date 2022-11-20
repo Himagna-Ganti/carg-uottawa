@@ -3,7 +3,7 @@ layout: page
 title: people
 permalink: /people/
 nav: true
-nav_order: 1
+nav_order: 3
 display_categories: [current, alumni]
 horizontal: false
 ---
