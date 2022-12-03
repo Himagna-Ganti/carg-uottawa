@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Find the full list of our publication in our <a href="https://scholar.google.ca/citations?hl=en&user=1HJ-KYMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><u>Google Scholar</u></a> profile.
+description: Find the full list of our publication in this <a href="https://scholar.google.ca/citations?hl=en&user=1HJ-KYMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><u>Google Scholar</u></a> profile.
 years: [2022, 2021, 2020, 2019, 2018]
 nav: true
 nav_order: 5
