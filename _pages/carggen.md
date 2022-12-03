@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: CARG-Gen
+permalink: /carg-gen/
 description:
 nav: true
-nav_order: 4
-display_categories: [CARG, HDRG, Previous]
+nav_order: 3
+display_categories: [Projects, Involved People]
 horizontal: false
 ---
 
