@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-Welcome to UOttawa CARG website :-D
+Welcome to UOttawa CARG website 🤗
 
 The University of Ottawa’s Computational Analysis and Acceleration Research Group (CARG) specializes in developing computational models and algorithms for signal processing and machine learning, as well as their efficient implementation, with an emphasis on biomedical and autonomous vehicle applications. The group is divided based on current projects in three subgroups CARG-Health Devices (HDRG), CARG-AI4UAVs and CARG-Gen for other research.
 
