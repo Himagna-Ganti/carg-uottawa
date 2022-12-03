@@ -5,7 +5,7 @@ permalink: /carg-gen/
 description:
 nav: true
 nav_order: 3
-display_categories: [Projects, Involved People]
+display_categories: [Projects, External Collaborators]
 horizontal: false
 ---
 
