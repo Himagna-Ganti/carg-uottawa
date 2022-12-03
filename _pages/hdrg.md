@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HDRG
-permalink: /carg-gen/
+permalink: /hdrg/
 description:
 nav: true
 nav_order: 1
