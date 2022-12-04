@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: PhD Student and RA/TA, <a href=https://www2.uottawa.ca/en target=_blank>University of Ottawa</a>
+description: Please reach the full list of publications at this <a href=https://scholar.google.ca/citations?hl=en&user=1HJ-KYMAAAAJ&view_op=list_works&sortby=pubdate target=_blank><u>Google Scholar Profile</u></a>
 years: [2022, 2021, 2020, 2019]
 nav: true
 ---
